@@ -50,3 +50,34 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.navbar-inverse .navbar-nav > li > .navbar-inverse .navbar-nav > li > a:focus {
+	background-color: #222;
+	border-color: #080808;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+	background-color: #222;
+	border-color: #080808;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	background-color: #222;
+	border-color: #080808;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	background-color: #222;
+	border-color: #080808;
+
+}
+
+.navbar-header{
+		background-color: #222;
+	border-color: #080808;
+}
+
+.navbar-default{
+		background-color: #222;
+	border-color: #080808;
+}

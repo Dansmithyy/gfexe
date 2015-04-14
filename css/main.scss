@@ -76,10 +76,6 @@ $on-laptop:        800px;
 	border-color: #080808;
 }
 
-.navbar-default{
-	background-color: #222;
-	border-color: #080808;
-}
 
 .navbar-collapse {
 	background-color: #222;
@@ -91,4 +87,6 @@ $on-laptop:        800px;
 .navbar-inverse {
   background-image: linear-gradient(to bottom, #222 0px, #222 100%);
     background-repeat: repeat-x;
+    font-family: Droid Sans, Arial, Helvetica, sans-serif;
 }
+

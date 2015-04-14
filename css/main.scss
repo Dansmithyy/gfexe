@@ -67,17 +67,28 @@ $on-laptop:        800px;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-	background-color: #222;
 	border-color: #080808;
 
 }
 
 .navbar-header{
-		background-color: #222;
+	background-color: #222;
 	border-color: #080808;
 }
 
 .navbar-default{
-		background-color: #222;
+	background-color: #222;
 	border-color: #080808;
+}
+
+.navbar-collapse {
+	background-color: #222;
+	border-color: #080808;
+	background-image: linear-gradient(to bottom, #222 0px, #222 100%);
+	background-repeat: repeat-x;	
+}
+
+.navbar-inverse {
+  background-image: linear-gradient(to bottom, #222 0px, #222 100%);
+    background-repeat: repeat-x;
 }

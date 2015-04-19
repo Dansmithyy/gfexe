@@ -87,3 +87,35 @@ $on-laptop:        800px;
     background-repeat: repeat-x;
     font-family: Droid Sans, Arial, Helvetica, sans-serif;
 }
+
+body {
+	margin-bottom: 60px;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  height: 60px;
+  background-color: #d0d0d0;
+}
+
+#copyrightnotice {
+	text-align:center;
+}
+
+#toslink {
+	text-align:center;
+	line-height: 5px;
+}
